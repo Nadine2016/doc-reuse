@@ -1,3 +1,10 @@
+---
+title: Gloo Platform products
+description: Learn about Gloo Platform management components, licensed products, and modules
+weight: 10
+product: gateway
+---
+
 With Gloo Platform, you get a suite of tools to consistently and securely manage your L3-L7 network application traffic. Gloo consists of an installable set of platform management tools that you install in a Kubernetes-based cluster via the Gloo CLI (`meshctl`) or Helm. Then, you unlock various network management capabilities with product or module licenses, as shown in the following figure.
 
 ## Shared platform management
