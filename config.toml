@@ -1,6 +1,6 @@
-baseURL = "http://docs.solo.io"
+baseURL = "http://docs.solo.io/"
 languageCode = "en-us"
-title = "Documentation"
+title = "Gloo Platform Documentation"
 
 [module]
   proxy = "direct"
@@ -12,6 +12,9 @@ title = "Documentation"
   [[module.imports]]
     path = 'github.com/artberger/docsy'
     disable = false
+  [[module.imports]]
+    path = 'github.com/google/docsy/dependencies'
+    disable = false
     
     
     
@@ -19,6 +22,8 @@ title = "Documentation"
 
 [params]
 
+product = "gateway"
+product_version = "2.1"
 version_menu_pagelinks=true
 
 
@@ -56,6 +61,7 @@ archived_version = true
   version = "2.0.x"
   url = "/../2.0.x"
   
+github_repo = "https://github.com/solo-io/doctopus"
 
 # Uncomment this if you have a newer GitHub repo with "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
