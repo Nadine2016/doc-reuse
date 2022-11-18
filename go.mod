@@ -6,5 +6,5 @@ require (
 	github.com/FortAwesome/Font-Awesome v0.0.0-20220831210243-d3a7818c253f // indirect
 	github.com/artberger/docsy v0.0.4 // indirect
 	github.com/google/docsy/dependencies v0.5.1 // indirect
-	github.com/twbs/bootstrap v5.2.2 // indirect
+	github.com/twbs/bootstrap v5.2.2+incompatible // indirect
 )
