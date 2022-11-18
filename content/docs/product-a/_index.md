@@ -1,5 +1,5 @@
 ---
 title: Product A
-weigth: 10
+weight: 10
 description: This is product A. 
 ---
