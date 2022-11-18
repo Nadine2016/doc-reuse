@@ -1,4 +1,4 @@
-module github.com/solo-io/doctopus/solo-docs
+module github.com/Nadine2016/doc-reuse
 
 go 1.18
 
